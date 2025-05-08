@@ -12,6 +12,27 @@ public class BankingProjectApplication {
 		
 		//SpringBootApplication Starterq
 		System.Out.println("HelloWorld")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
 	}
 
 }
